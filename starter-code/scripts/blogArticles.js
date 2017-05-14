@@ -1,7 +1,10 @@
 'use strict';
 
 var rawData = [
+  {"author":"Me","authorUrl":"me.com","title":"This is a new article, yo.","category":"me-ness","body":"<p>I&#39;m testing my article in huge type!</p>\n","publishedOn":"2017-05-14T19:34:45.471Z","daysAgo":1,"publishStatus":"published 1 days ago"},
+
   {"author":"Larry the Copypasta Guy","authorUrl":"lunapark.com","title":"Gooooooooooooaaaaaaaaaalllllllllll","category":"fish biscuits","body":"Sounders FTW","publishedOn":"2017-05-12T23:19:58.547Z","daysAgo":0,"publishStatus":"published 0 days ago"},
+
   {
     title:       'Bacon Ipsum',
     category:    'food',
